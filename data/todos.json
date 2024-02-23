@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "text": "estudar python"
+        },
+        {
+            "id": "2",
+            "text": "estudar react"
+        },
+        {
+            "id": "3",
+            "text": "estudar next"
+        }
+    ]
+}
